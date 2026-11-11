@@ -1,0 +1,6 @@
+Order,Filename,Model,CV Cost / Resident ($),CV Fold SD ($),CV Log Loss,CV ROC-AUC,Test Vaccines Sent,Test Share Sent,Expected Test Town Cost ($)
+1,challenge_submission_group_P_order_1.csv,SoftVoting_Blend,3298.21,90.41,0.4198,0.8652,1645,0.3464,16031629.0
+2,challenge_submission_group_P_order_2.csv,LightGBM,3299.48,83.82,0.4282,0.8591,1633,0.3439,15883335.0
+3,challenge_submission_group_P_order_3.csv,LightGBM_Tuned,3300.51,86.85,0.4242,0.8617,1645,0.3464,15991319.0
+4,challenge_submission_group_P_order_4.csv,Stacked_Generaliser,3300.83,88.77,0.4212,0.8654,1589,0.3346,15938889.0
+5,challenge_submission_group_P_order_5.csv,HGB_Tuned,3302.07,84.05,0.4245,0.8616,1641,0.3455,16030800.0
